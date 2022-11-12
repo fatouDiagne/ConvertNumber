@@ -1,0 +1,15 @@
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\bin\Debug\net6.0\ConvertNumber.exe
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\bin\Debug\net6.0\ConvertNumber.deps.json
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\bin\Debug\net6.0\ConvertNumber.runtimeconfig.json
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\bin\Debug\net6.0\ConvertNumber.dll
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\bin\Debug\net6.0\ConvertNumber.pdb
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\ConvertNumber.csproj.AssemblyReference.cache
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\ConvertNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\ConvertNumber.AssemblyInfoInputs.cache
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\ConvertNumber.AssemblyInfo.cs
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\ConvertNumber.csproj.CoreCompileInputs.cache
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\ConvertNumber.dll
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\refint\ConvertNumber.dll
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\ConvertNumber.pdb
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\ConvertNumber.genruntimeconfig.cache
+C:\Users\diagn\source\repos\ConvertNumber\ConvertNumber\obj\Debug\net6.0\ref\ConvertNumber.dll
